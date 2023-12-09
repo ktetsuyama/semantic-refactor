@@ -12,6 +12,8 @@ The source code was not semantically written, so I rewrote most of the HTML tags
 
 ![Screenshot of end webpage after refactoring](assets/images/screenshot.jpg)
 
+[Link to deployed application](https://ktetsuyama.github.io/semantic-refactor/)
+
 ## Credits
 
 Tutorials used:
