@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* changed the below header from 2 to 4, so as to follow the heirarchy */
 .footer h4 {
     font-size: 20px;
 }
