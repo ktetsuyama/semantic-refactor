@@ -4,7 +4,7 @@
 
 A study in refactoring HTML semantics
 
-The source code was not semantically written, so I rewrote most of the HTML tags semantically to increase accessibilty of the website and the search engine optimisation (SEO).
+The source code of the client's website was not semantically written, so I rewrote most of the HTML tags semantically to increase accessibilty of the website and the search engine optimisation (SEO).
 
 
 
