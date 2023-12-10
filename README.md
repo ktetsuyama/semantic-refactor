@@ -6,6 +6,8 @@ A study in refactoring HTML semantics
 
 The source code of the client's website was not semantically written, so I rewrote most of the HTML tags semantically to increase accessibilty of the website and the search engine optimisation (SEO).
 
+I also cleaned up the CSS file to recude the number of redundant elements.
+
 
 
 ## Usage
@@ -16,7 +18,7 @@ The source code of the client's website was not semantically written, so I rewro
 
 ## Credits
 
-Collaborated with Alex Baumgartner to hunt and squash bugs.
+I collaborated with Alex Baumgartner to hunt and squash bugs.
 
 Tutorials used:
 
