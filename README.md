@@ -16,6 +16,8 @@ The source code of the client's website was not semantically written, so I rewro
 
 ## Credits
 
+Collaborated with Alex Baumgartner to hunt and squash bugs.
+
 Tutorials used:
 
 [Brevity article on Semantic HTML](https://seekbrevity.com/semantic-markup-important-web-design/#:~:text=Semantic%20markup%20is%20a%20way,content%20rather%20than%20its%20appearance.&text=Writing%20semantic%20markup%20means%20understanding,and%20machines%20will%20read%20it)
