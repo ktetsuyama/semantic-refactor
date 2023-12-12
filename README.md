@@ -8,7 +8,7 @@ A study in refactoring HTML semantics
 
 - [Introducition](#introduction)
 - [Problem](#problem)
--[Solution](#solution)
+- [Solution](#solution)
 
 ## Introduction
 
