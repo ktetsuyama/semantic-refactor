@@ -11,21 +11,19 @@ A study in refactoring HTML semantics
 - [Solution](#solution)
 
 ## Introduction
-
+The client runs a Social Media Management company and would like a codebase that follows accessibility standards, so that their site is optimized for search engines.
 
 ## Problem
 
-The source code of the client's website was not semantically written, so I rewrote most of the HTML tags semantically to increase accessibilty of the website and the search engine optimisation (SEO).
-
-I also cleaned up the CSS file to reduce the number of redundant elements.
-
-
+The source code of the client's website was not semantically written. This was negatively effecting search engine optimisation (SEO) and the website was not very Web Accessibility Initiative - Accessible Rich Internet Applications (WAI-ARIA) compliant.
 
 ## Solution
 
+ I rewrote most of the HTML tags semantically to increase the website's WAI-ARIA compliance and the SEO. I also cleaned up the CSS file to reduce the number of redundant elements.
+
 ![Screenshot of end webpage after refactoring](assets/images/screenshot.jpg)
 
-[Link to deployed application](https://ktetsuyama.github.io/semantic-refactor/)
+[Link to the deployed application](https://ktetsuyama.github.io/semantic-refactor/)
 
 ## Credits
 
