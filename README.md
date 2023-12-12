@@ -4,13 +4,24 @@
 
 A study in refactoring HTML semantics
 
+## Table of Contents
+
+- [Introducition](#introduction)
+- [Problem](#problem)
+-[Solution](#solution)
+
+## Introduction
+
+
+## Problem
+
 The source code of the client's website was not semantically written, so I rewrote most of the HTML tags semantically to increase accessibilty of the website and the search engine optimisation (SEO).
 
 I also cleaned up the CSS file to reduce the number of redundant elements.
 
 
 
-## Usage
+## Solution
 
 ![Screenshot of end webpage after refactoring](assets/images/screenshot.jpg)
 
