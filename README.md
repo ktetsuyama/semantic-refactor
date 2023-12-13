@@ -27,7 +27,7 @@ The source code of the client's website was not semantically written. This was n
 
 ## Credits
 
-I collaborated with Alex Baumgartner to hunt and squash bugs.
+I collaborated with Alex Baumgartner to hunt and squash bugs. I also discussed this homework with Morgan Carolin, Druv Goswamy, Meera G K, Aileen Nguyen, George Schiltz, and Aster Oliva.
 
 Tutorials used:
 
