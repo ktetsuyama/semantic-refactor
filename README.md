@@ -29,6 +29,8 @@ The source code of the client's website was not semantically written. This was n
 
 I collaborated with Alex Baumgartner to hunt and squash bugs. I also discussed this homework with Morgan Carolin, Druv Goswamy, Meera G K, Aileen Nguyen, George Schiltz, and Aster Oliva.
 
+Aster suggested using the pointer-events tag to hide the title on the background image on hover.
+
 Tutorials used:
 
 [Brevity article on Semantic HTML](https://seekbrevity.com/semantic-markup-important-web-design/#:~:text=Semantic%20markup%20is%20a%20way,content%20rather%20than%20its%20appearance.&text=Writing%20semantic%20markup%20means%20understanding,and%20machines%20will%20read%20it)
